@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TitleChangerApp.MainPage" Title="{Binding Name}">
+
+    <StackLayout Margin="10,35,10,10">
+
+        <Label Text="Click on button!" 
+               FontSize="Title"
+           HorizontalOptions="Center"/>
+        <Button Text="Edit Title"
+             Clicked="OnEditButtonClicked" />
+        <Button Text="All titles"
+                Clicked ="OnAllTitlesButtonClicked"/>
+
+    </StackLayout>
+
+</ContentPage>

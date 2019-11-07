@@ -1,0 +1,15 @@
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\bin\Debug\netstandard2.0\TitleChangerApp.deps.json
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\bin\Debug\netstandard2.0\TitleChangerApp.dll
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\bin\Debug\netstandard2.0\ref\TitleChangerApp.dll
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\bin\Debug\netstandard2.0\TitleChangerApp.pdb
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\TitleChangerApp.csprojAssemblyReference.cache
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\TitleChangerApp.AssemblyInfoInputs.cache
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\TitleChangerApp.AssemblyInfo.cs
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\TitleChangerApp.dll
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\ref\TitleChangerApp.dll
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\TitleChangerApp.pdb
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\AllTitlesPage.xaml.g.cs
+C:\Users\yashe\source\repos\TitleChangerApp\TitleChangerApp\obj\Debug\netstandard2.0\ChangeTitlePage.xaml.g.cs
