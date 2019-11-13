@@ -1,0 +1,14 @@
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\SecondPage.xaml.g.cs
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\PopUpsApp.AssemblyInfoInputs.cache
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\PopUpsApp.AssemblyInfo.cs
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\PopUpsApp.dll
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\ref\PopUpsApp.dll
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\PopUpsApp.pdb
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\bin\Debug\netstandard2.0\PopUpsApp.deps.json
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\bin\Debug\netstandard2.0\PopUpsApp.dll
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\bin\Debug\netstandard2.0\ref\PopUpsApp.dll
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\bin\Debug\netstandard2.0\PopUpsApp.pdb
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yashe\source\repos\PopUpsApp\PopUpsApp\obj\Debug\netstandard2.0\PopUpsApp.csprojAssemblyReference.cache

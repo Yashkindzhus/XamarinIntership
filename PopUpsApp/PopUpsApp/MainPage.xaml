@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PopUpsApp.MainPage"
+             Title="First Page">
+
+    <StackLayout Margin="20,20,20,20">
+        <Button x:Name="GoToSecond"
+              Text="Second Page"
+              Clicked="OnSecondPageButton_Click" />
+        
+    </StackLayout>
+
+</ContentPage>
