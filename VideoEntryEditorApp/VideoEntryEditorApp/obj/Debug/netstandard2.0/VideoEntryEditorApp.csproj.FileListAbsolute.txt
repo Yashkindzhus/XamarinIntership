@@ -1,0 +1,16 @@
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\bin\Debug\netstandard2.0\VideoEntryEditorApp.deps.json
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\bin\Debug\netstandard2.0\VideoEntryEditorApp.dll
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\bin\Debug\netstandard2.0\ref\VideoEntryEditorApp.dll
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\bin\Debug\netstandard2.0\VideoEntryEditorApp.pdb
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\VideoEntryEditorApp.csprojAssemblyReference.cache
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\EditorPage.xaml.g.cs
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\EntryPage.xaml.g.cs
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\VideoPage.xaml.g.cs
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\VideoEntryEditorApp.AssemblyInfoInputs.cache
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\VideoEntryEditorApp.AssemblyInfo.cs
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\VideoEntryEditorApp.dll
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\ref\VideoEntryEditorApp.dll
+C:\Users\yashe\source\repos\VideoEntryEditorApp\VideoEntryEditorApp\obj\Debug\netstandard2.0\VideoEntryEditorApp.pdb
