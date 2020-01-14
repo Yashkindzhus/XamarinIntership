@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:local="clr-namespace:PinsApp.Resources.Strings"
+    ios:Page.UseSafeArea="True"
+    x:Class="PinsApp.Views.RegisterView"
+    Title="Register form">
+    <ContentPage.Content>
+        <StackLayout Margin="10,10,10,10">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Column="0"
+                   Grid.Row="0"
+                   Text="{x:Static local:Strings.Name}"/>
+                <Label Grid.Column="0"
+                   Grid.Row="1"
+                   Text="{x:Static local:Strings.Email} "/>
+                <Label Grid.Column="0"
+                   Grid.Row="2"
+                   Text="{x:Static local:Strings.Password}"/>
+                <Label Grid.Column="0"
+                   Grid.Row="3"
+                   Text="{x:Static local:Strings.RepeatPassword}"/>
+
+                <Entry Text="{Binding Name}"
+                    Grid.Column="1"
+                   Grid.Row="0"/>
+                <Entry Text="{Binding Email}"
+                    Grid.Column="1"
+                   Grid.Row="1"/>
+                <Entry Text="{Binding Password}"
+                    Grid.Column="1"
+                   Grid.Row="2"
+                   IsPassword="True"/>
+                <Entry Text="{Binding PasswordAgain}"
+                    Grid.Column=" 1"
+                   Grid.Row="3"
+                   IsPassword="True"/>
+                <Button Text="{x:Static local:Strings.Register}"
+                    Grid.Column="0"
+                    Grid.Row="4"
+                        Command="{Binding RegisterPressedCommand}"/>
+                <Button Text="{x:Static local:Strings.Cancel}"
+                        Grid.Column="1"
+                        Grid.Row="4"
+                        Command="{Binding CancelPressedCommand}"/>
+            </Grid>
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

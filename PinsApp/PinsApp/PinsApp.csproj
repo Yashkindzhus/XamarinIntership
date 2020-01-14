@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ProduceReferenceAssembly>true</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Forms" Version="4.2.0.709249" />
+    <PackageReference Include="Xamarin.Essentials" Version="1.2.0" />
+    <PackageReference Include="Prism.Unity.Forms" Version="7.2.0.1422" />
+    <PackageReference Include="Acr.UserDialogs" Version="7.0.35" />
+    <PackageReference Include="Xamarin.Forms.GoogleMaps" Version="3.3.0" />
+    <PackageReference Include="Xamarin.Forms.GoogleMaps.Clustering" Version="1.1.0" />
+    <PackageReference Include="sqlite-net-pcl" Version="1.6.292" />
+    <PackageReference Include="Prism.Plugin.Popups" Version="7.2.0.759" />
+    <PackageReference Include="Plugin.Permissions" Version="3.0.0.12" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModels\" />
+    <Folder Include="Views\" />
+    <Folder Include="Services\" />
+    <Folder Include="Controls\" />
+    <Folder Include="Resources\" />
+    <Folder Include="Resources\Strings\" />
+    <Folder Include="Services\Pin\" />
+    <Folder Include="Models\" />
+    <Folder Include="Services\Authorisation\" />
+    <Folder Include="Services\Repository\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\Strings\Strings.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Strings.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Resources\Strings\Strings.Designer.cs">
+      <DependentUpon>Strings.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+</Project>

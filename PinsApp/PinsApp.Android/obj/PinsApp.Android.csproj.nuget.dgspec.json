@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/user/Projects/PinsApp/PinsApp.Android/PinsApp.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/user/Projects/PinsApp/PinsApp.Android/PinsApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/user/Projects/PinsApp/PinsApp.Android/PinsApp.Android.csproj",
+        "projectName": "PinsApp.Android",
+        "projectPath": "/Users/user/Projects/PinsApp/PinsApp.Android/PinsApp.Android.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Projects/PinsApp/PinsApp.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/user/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "/Users/user/Projects/PinsApp/PinsApp/PinsApp.csproj": {
+                "projectPath": "/Users/user/Projects/PinsApp/PinsApp/PinsApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.0.30, )"
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[3.0.0.12, )"
+            },
+            "Prism.Plugin.Popups": {
+              "target": "Package",
+              "version": "[7.2.0.759, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            },
+            "Xamarin.Forms.GoogleMaps": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Xamarin.Forms.GoogleMaps.Clustering": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.6.292, )"
+            }
+          }
+        }
+      }
+    },
+    "/Users/user/Projects/PinsApp/PinsApp/PinsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/user/Projects/PinsApp/PinsApp/PinsApp.csproj",
+        "projectName": "PinsApp",
+        "projectPath": "/Users/user/Projects/PinsApp/PinsApp/PinsApp.csproj",
+        "packagesPath": "/Users/user/.nuget/packages/",
+        "outputPath": "/Users/user/Projects/PinsApp/PinsApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/user/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Acr.UserDialogs": {
+              "target": "Package",
+              "version": "[7.0.35, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Plugin.Permissions": {
+              "target": "Package",
+              "version": "[3.0.0.12, )"
+            },
+            "Prism.Plugin.Popups": {
+              "target": "Package",
+              "version": "[7.2.0.759, )"
+            },
+            "Prism.Unity.Forms": {
+              "target": "Package",
+              "version": "[7.2.0.1422, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            },
+            "Xamarin.Forms.GoogleMaps": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Xamarin.Forms.GoogleMaps.Clustering": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.6.292, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

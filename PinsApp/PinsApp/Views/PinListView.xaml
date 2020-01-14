@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:local="clr-namespace:PinsApp.Resources.Strings"
+             x:Class="PinsApp.Views.PinListView">
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="*"/>
+			</Grid.RowDefinitions>
+
+			<ScrollView Grid.Row="0">
+				<ListView>
+
+				</ListView>
+			</ScrollView>
+
+			<Button Grid.Row="0"
+		            BorderRadius="35"
+		            FontAttributes="Bold"
+		            Text="{x:Static local:Strings.Plus}"
+		            HorizontalOptions="End"
+		            WidthRequest="70"
+		            HeightRequest="70"
+		            FontSize="Large"
+		            Margin="0,0,20,22"
+		            VerticalOptions="End"
+		            Command="{Binding PlusPressedCommand}"/>
+		</Grid>
+</ContentPage>

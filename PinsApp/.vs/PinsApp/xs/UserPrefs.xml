@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{C791BC44-DCF8-4EEE-9218-0693C1558D1D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PinsApp/Views/RegisterView.xaml">
+    <Files>
+      <File FileName="PinsApp/Services/AuthorisationService.cs" Line="7" Column="34" />
+      <File FileName="PinsApp/App.xaml.cs" Line="64" Column="10" />
+      <File FileName="PinsApp/Models/PinModel.cs" Line="16" Column="39" />
+      <File FileName="PinsApp/Models/UserModel.cs" Line="9" Column="31" />
+      <File FileName="PinsApp/Services/Pin/IPinService.cs" Line="1" Column="1" />
+      <File FileName="PinsApp/Services/Pin/PinService.cs" Line="1" Column="1" />
+      <File FileName="PinsApp/Services/Authorisation/IAuthorisationService.cs" Line="12" Column="1" />
+      <File FileName="PinsApp/Services/Repository/IRepositoryService.cs" Line="8" Column="38" />
+      <File FileName="PinsApp/Services/Repository/RepositoryService.cs" Line="9" Column="38" />
+      <File FileName="PinsApp/ViewModels/AddPinViewModel.cs" Line="1" Column="1" />
+      <File FileName="PinsApp/ViewModels/BaseViewModel.cs" Line="1" Column="1" />
+      <File FileName="PinsApp/ViewModels/LoginViewModel.cs" Line="6" Column="38" />
+      <File FileName="PinsApp/ViewModels/MapPageViewModel.cs" Line="1" Column="1" />
+      <File FileName="PinsApp/ViewModels/PinListViewModel.cs" Line="1" Column="1" />
+      <File FileName="PinsApp/ViewModels/PinsViewModel.cs" Line="1" Column="1" />
+      <File FileName="PinsApp/ViewModels/RegisterViewModel.cs" Line="5" Column="38" />
+      <File FileName="PinsApp/Views/AddPinView.xaml" Line="1" Column="1" />
+      <File FileName="PinsApp/Views/LoginView.xaml" Line="1" Column="1" />
+      <File FileName="PinsApp/Views/MapPageView.xaml" Line="1" Column="1" />
+      <File FileName="PinsApp/Views/PinListView.xaml" Line="1" Column="1" />
+      <File FileName="PinsApp/Views/PinsView.xaml" Line="1" Column="1" />
+      <File FileName="PinsApp/Views/RegisterView.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PinsApp" expanded="True">
+            <Node name="PinsApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../PinsApp/Services/AuthorisationService.cs" line="19" offsetX="-1" offsetY="-1" expression="user.Name" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.PinsApp.Android PreferredExecutionTarget="Android.RF8M20HWTGT" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.PinsApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.75DF6C33-DFFD-445D-8C51-FBFD5D8CDFC4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

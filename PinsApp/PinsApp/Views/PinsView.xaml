@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TabbedPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+    xmlns:y="clr-namespace:PinsApp.Views"
+    xmlns:local="clr-namespace:PinsApp.Resources.Strings"
+    ios:Page.UseSafeArea="True"
+    x:Class="PinsApp.Views.PinsView">
+    <TabbedPage.Children>
+        <y:MapPageView Title="{x:Static local:Strings.Map}"/>
+        <y:PinListView Title="{x:Static local:Strings.YourPins}"/>
+    </TabbedPage.Children>
+</TabbedPage>
